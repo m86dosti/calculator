@@ -51,6 +51,4 @@ button:active{
 .button-M:hover{
     background-color: rgb(223, 189, 97);
 }
-.button-M:active{
-    background-color: rgb(228, 205, 141);
-}
+.button-M:active{background-color: rgb(228, 205, 141);}
